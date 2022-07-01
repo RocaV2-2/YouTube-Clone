@@ -1,0 +1,17 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  font-family: roboto,arial;
+  margin: 0;
+  padding-top: 60px;
+  padding-left: 76px;
+  background-color: rgb(249, 249, 249);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
